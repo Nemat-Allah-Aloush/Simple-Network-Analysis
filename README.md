@@ -1,24 +1,22 @@
 # Simple-Network-Analysis
 An interface developed in R language for simple social network analysis tasks.
-
 ---
 
 ## Index
-1. [Introduction](#introduction)
+1. [About the project](#about-the-project)
 2. [Used software and Requirments](#used-software-and-requirments)
-3. [Semantic Search Engine Steps](#semantic-search-engine-steps)
 4. [Results: A senario](#results-a-senario)
 
 ---
-## Introduction
+
+## About the project
+
+The final product of the project is a program where a user can upload a file of a social network dataset. Through the program, the user can check the recommended algorithms to be applied to their dataset then they can detect different communities using that algorithm. Moreover, users can detect the influencer in the social network, plot the social network and compare the results of different algorithms for detecting the communities.
+
 
 --- 
-## Used Software and Requirments
-
-
---- 
-## Semantic Search Engine Steps
-
+## Used Software
+The project was developed using R language in R studio enviroment.
 
 
 ---
