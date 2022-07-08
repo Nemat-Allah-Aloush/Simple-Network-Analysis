@@ -7,7 +7,7 @@ An interface developed in R language for simple social network analysis tasks.
 1. [Introduction](#introduction)
 2. [Used software and Requirments](#used-software-and-requirments)
 3. [Semantic Search Engine Steps](#semantic-search-engine-steps)
-4. [Results: A senario](#results:-A-senario)
+4. [Results: A senario](#results:-a-senario)
 
 ---
 ## Introduction
