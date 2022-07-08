@@ -7,7 +7,7 @@ An interface developed in R language for simple social network analysis tasks.
 1. [Introduction](#introduction)
 2. [Used software and Requirments](#used-software-and-requirments)
 3. [Semantic Search Engine Steps](#semantic-search-engine-steps)
-4. [Results: A senario](#results:-a-senario)
+4. [Results: A senario](#results-a-senario)
 
 ---
 ## Introduction
@@ -22,7 +22,7 @@ An interface developed in R language for simple social network analysis tasks.
 
 
 ---
-## Results: A senario
+## Results A senario
 In the following we'll walk through a senario case for using the interface:
 
 1. The first step is to upload the dataset file, the program will read it and print main measurements for Social Network, the result as follows in the followin picture.
