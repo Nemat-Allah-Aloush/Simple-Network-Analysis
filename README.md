@@ -10,6 +10,7 @@ An interface developed in R language for simple social network analysis tasks.
 ---
 
 ## About the project
+Social Network Analysis aims to detect communities inside a network. Since researchers proposed many approaches, the decision of choosing one method as a task requires experience in the field of social networks. In this project, a defacto standard validation measure (Modularity) was applied to guide any user with no experience in Social Network Analysis in choosing one algorithm for detecting communities. In addition to that, some functionalities were added to the system such as finding the influencer, calculating some centrality measures, and the ability to compare community detection algorithms.
 
 The final product of the project is a program where a user can upload a file of a social network dataset. Through the program, the user can check the recommended algorithms to be applied to their dataset then they can detect different communities using that algorithm. Moreover, users can detect the influencer in the social network, plot the social network and compare the results of different algorithms for detecting the communities.
 
